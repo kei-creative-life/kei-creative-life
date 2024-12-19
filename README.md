@@ -16,6 +16,10 @@ I'm Kengo, Front-end enginner.
   <img src="https://img.shields.io/badge/-Big Query-669DF6?logo=googlebigquery&logoColor=white&style=for-the-badge" />
 </div>
 
+## 🌐 Find Me Online
+- 🌍 [Wantedly] https://www.wantedly.com/id/kenyama
+- 💼 [LAPRAS] https://lapras.com/person
+
 ---
 
 ## 📊 GitHub Stats
