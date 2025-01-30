@@ -17,7 +17,6 @@ I'm Kengo, Front-end enginner.
 </div>
 
 ## 🌐 Find Me Online
-- 🌍 [Wantedly] https://www.wantedly.com/id/kenyama
 - 💼 [LAPRAS] https://lapras.com/person
 
 ---
