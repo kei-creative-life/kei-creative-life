@@ -17,6 +17,7 @@ I'm Kengo, Front-end enginner.
 </div>
 
 ## 🌐 Find Me Online
+- 🧘 [Zenn] https://zenn.dev/kei
 - 💼 [LAPRAS] https://lapras.com/person
 
 ---
