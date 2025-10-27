@@ -16,6 +16,13 @@ I'm Kengo, Front-end enginner.
   <img src="https://img.shields.io/badge/-Big Query-669DF6?logo=googlebigquery&logoColor=white&style=for-the-badge" />
 </div>
 
+## 💯 Qualifications
+- AWS
+  - [x] Certified Cloud Practitioner （25.10.26 done）
+  - [ ] Certified Solutions Architect - Associate (comming soon...)
+- Google Cloud
+  - [ ] Associate Cloud Enginner (comming soon...)
+
 ## 🌐 Find Me Online
 - 🧘 [Zenn] https://zenn.dev/kei
 - 💼 [LAPRAS] https://lapras.com/person
