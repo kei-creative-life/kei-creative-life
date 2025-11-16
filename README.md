@@ -21,7 +21,7 @@ I'm Kengo, Front-end enginner.
   - [x] Certified Cloud Practitioner （25.10.26 done）
   - [ ] Certified Solutions Architect - Associate (comming soon...)
 - Google Cloud
-  - [ ] Associate Cloud Enginner (comming soon...)
+  - [x] Associate Cloud Enginner (25.11.16 done)
 
 ## 🌐 Find Me Online
 - 🧘 [Zenn] https://zenn.dev/kei
