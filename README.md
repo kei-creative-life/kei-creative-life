@@ -1,5 +1,5 @@
 # Introduction 👋
-I'm Kengo, Front-end enginner.
+I'm Kengo, Web enginner.
 
 ![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -33,10 +33,10 @@ I'm Kengo, Front-end enginner.
 ## 💯 Qualifications
 - AWS
   - [x] Certified Cloud Practitioner （25.10.26 done）
-  - [ ] Certified Solutions Architect - Associate (comming soon...)
 - Google Cloud
   - [x] Associate Cloud Enginner (25.11.16 done)
-
+  - [x] Professional Cloud Architect (26.6.19 done)
+  
 ## 🌐 Find Me Online
 - 🧘 [Zenn] https://zenn.dev/kei
 - 💼 [LAPRAS] https://lapras.com/person
